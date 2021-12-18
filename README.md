@@ -1,2 +1,2 @@
-# spanning_tree_algorithms
+# Spanning tree algorithms
 Implementation from: https://www.geeksforgeeks.org/ 
